@@ -1,2 +1,2 @@
 # clone-tabnews
-Clone do tabnews para estudo geral
+Implementação do https://www.tabnews.com.br para estudo geral
